@@ -86,9 +86,8 @@ public class AdaptadorTareas extends RecyclerView.Adapter<AdaptadorTareas.TareaV
             tvFechaEntrega.setText(tarea.getFechaEntrega());
             tvHoraEntrega.setText(tarea.getHoraEntrega());
             tvEstadoTarea.setText(tarea.isEstado() ? "Completado" : "Pendiente");
-            tvEstadoTarea.setTextColor(tarea.isEstado() ?
-                    itemView.getResources().getColor(android.R.color.holo_green_dark) :
-                    itemView.getResources().getColor(android.R.color.holo_red_dark));
+
+
         }
     }
 }

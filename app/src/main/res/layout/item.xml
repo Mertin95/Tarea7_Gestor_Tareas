@@ -51,7 +51,6 @@
         android:text=""
         android:textStyle="italic"
         android:textSize="12sp"
-        android:textColor="@android:color/holo_red_dark"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tv_hora_entrega"
         app:layout_constraintBottom_toBottomOf="parent" />
