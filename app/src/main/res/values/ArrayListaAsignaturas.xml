@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ArrayListaAsignaturas">
+        <item>AD</item>
+        <item>PMDM</item>
+        <item>PSP</item>
+        <item>EIE</item>
+        <item>DI</item>
+        <item>SXE</item>
+    </string-array>
+</resources>
